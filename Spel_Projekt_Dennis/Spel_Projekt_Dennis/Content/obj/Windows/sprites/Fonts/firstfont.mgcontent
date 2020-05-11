@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/denni/source/repos/Spel_Projekt_Dennis/Spel_Projekt_Dennis/Content/sprites/Fonts/firstfont.spritefont</SourceFile>
+  <SourceTime>2020-04-17T11:01:17.9436225+02:00</SourceTime>
+  <DestFile>C:/Users/denni/source/repos/Spel_Projekt_Dennis/Spel_Projekt_Dennis/Content/bin/Windows/sprites/Fonts/firstfont.xnb</DestFile>
+  <DestTime>2020-04-17T11:04:24.8691131+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
